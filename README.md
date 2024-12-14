@@ -8,7 +8,7 @@ Sou um desenvolvedor front-end do Brasil, com foco em **React**, **Tailwind CSS*
 - **Ferramentas:** Git, GitHub
 
 ## 📊 Estatísticas:
-![Alison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisonnbarbosaa&show_icons=true&theme=radical)
+![Alison's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisonnbarbosaa&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisonnbarbosaa&layout=compact&theme=radical)
 
